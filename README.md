@@ -59,8 +59,8 @@ A beautiful, feature-rich calendar plugin for Obsidian that helps you plan and v
 
 ### Manual Installation
 
-1. Download the latest release from [GitHub Releases](https://github.com/Baldev8910/calendar-event-planner/releases)
-2. Extract the files to your vault's `.obsidian/plugins/calendar-event-planner/` directory
+1. Download the latest release from [GitHub Releases](https://github.com/Baldev8910/event-planner/releases)
+2. Extract the files to your vault's `.obsidian/plugins/event-planner/` directory
 3. Reload Obsidian
 4. Enable the plugin in Settings → Community Plugins
 
