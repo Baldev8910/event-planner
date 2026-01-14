@@ -1,0 +1,10 @@
+{
+  "id": "calendar-event-planner",
+  "name": "Calendar Event Planner",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A comprehensive calendar with event planning capabilities",
+  "author": "Baldev8910",
+  "authorUrl": "https://yourwebsite.com",
+  "isDesktopOnly": false
+}
