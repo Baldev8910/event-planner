@@ -194,26 +194,22 @@ When reporting bugs, please include:
 - Expected vs actual behavior
 - Screenshots if applicable
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with ❤️ for the Obsidian community
 - Inspired by the need for better calendar integration in Obsidian
 - Thanks to all contributors and users!
 
-## 📬 Contact
+## Contact
 
 - **GitHub**: [@Baldev8910](https://github.com/Baldev8910)
 - **Issues**: [GitHub Issues](https://github.com/Baldev8910/event-planner/issues)
 
 ---
 
-⭐ If you find this plugin useful, please consider giving it a star on GitHub!
+⭐ If you find this plugin useful, please consider giving it a star!
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Recurring events
 - [ ] Event categories/tags
