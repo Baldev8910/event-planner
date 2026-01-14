@@ -164,7 +164,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/calendar-event-planner.git
+git clone https://github.com/Baldev8910/event-planner.git
 cd calendar-event-planner
 npm install
 
@@ -184,7 +184,7 @@ npm run build
 
 ## Bug Reports & Feature Requests
 
-Found a bug or have a feature idea? Please open an issue on [GitHub Issues](https://github.com/Baldev8910/calendar-event-planner/issues).
+Found a bug or have a feature idea? Please open an issue on [GitHub Issues](https://github.com/Baldev8910/event-planner/issues).
 
 When reporting bugs, please include:
 
@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 - **GitHub**: [@Baldev8910](https://github.com/Baldev8910)
-- **Issues**: [GitHub Issues](https://github.com/Baldev8910/calendar-event-planner/issues)
+- **Issues**: [GitHub Issues](https://github.com/Baldev8910/event-planner/issues)
 
 ---
 
