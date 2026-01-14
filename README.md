@@ -35,12 +35,15 @@ A beautiful, feature-rich calendar plugin for Obsidian that helps you plan and v
 ### Intuitive Interface
 
 - **Context menu**: Right-click any date to add events or view scheduled items.
+
 ![Right Click](preview/righClick.png)
 
 - **Hover tooltips**: See all event details by hovering over dates.
+
 ![Hover Tooltip](preview/hoverTooltip.png)
 
 - **Event list view**: Review all events for a specific day in an organized list.
+
 ![List Events](preview/listEvents.png)
 
 ### Data Management
